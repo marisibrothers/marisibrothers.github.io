@@ -1,0 +1,23 @@
+collections:
+  authors:
+    output: true
+
+title: Marisi Brothers
+description: Two brothers writing about technology and software
+
+theme: minima
+
+luciano_marisi:
+  name: Luciano Marisi
+  web: https://www.twitter.com/lucianomarisi
+
+nahuel_marisi:
+  name: Nahuel Marisi
+  web: https://www.twitter.com/nmarisi
+
+google_analytics: UA-80203891-1
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
