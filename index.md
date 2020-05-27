@@ -1,4 +1,4 @@
 ---
-layout: articles
+layout: posts
 title: Articles
 ---
