@@ -4,6 +4,7 @@ title: 2 years later
 date: '2017-10-03T16:00:00.000+01:00'
 author: luciano_marisi
 tags: 
+- blogging
 permalink: /2017/10/two-years-later.html
 ---
 
